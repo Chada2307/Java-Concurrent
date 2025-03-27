@@ -20,6 +20,7 @@ public class Test {
             w1.start();
             w1.join();
             System.out.println("Koniec programu");
+            System.out.println("Koniec koniec");
         }catch (InterruptedException e){
             e.printStackTrace();
         }
