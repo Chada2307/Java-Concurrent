@@ -12,6 +12,7 @@ public class Watek2 implements Runnable {
             }
 
         }
+        return 0;
     }
 }
 

@@ -1,7 +1,7 @@
 package Zad2;
 
 public class TestZiemniakow1 {
-    
+
     public static void main(String[] args) {
         DzialajacyZiemniak1 dZ = new DzialajacyZiemniak1();
 

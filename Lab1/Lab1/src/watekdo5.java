@@ -51,5 +51,6 @@ public class watekdo5 extends Thread {
 
         matrix = zapelnij(matrix);
 
+        return 0;
     }
 }

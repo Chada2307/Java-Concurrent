@@ -1,0 +1,13 @@
+czas działania na jednym wątku:     111780590867900 ns -> 111 780 590.87 milisekund
+czas działania na dwóch wątkach:    111883230650700 ns -> 111 883 230.65 milisekund
+czas działania na czterech wątkach: 111940908447000 ns -> 111 940 908.45 milisekund
+czas działania na szesciu wątkach:  112125234061400 ns -> 112 125 234.06 milisekund
+czas działania na ośmiu wątkach:    112295896106000 ns -> 112 295 896.11 milisekund
+
+
+Windows 10
+CPU Intel Core i5-8250U
+    4 rdzenie
+    8 wątków
+    1.8 GHz
+RAM 24GB 2400 MHz

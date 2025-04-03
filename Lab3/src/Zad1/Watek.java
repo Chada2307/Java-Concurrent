@@ -19,5 +19,6 @@ public class Watek extends Thread{
             System.out.println("Error");
         }
 
+        return ran;
     }
 }

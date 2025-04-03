@@ -19,6 +19,7 @@ public class Mouse extends Thread {
                 break;
             }
         }
+
     }
     public static void main(String[] args) {
         Cake cake = new Cake();

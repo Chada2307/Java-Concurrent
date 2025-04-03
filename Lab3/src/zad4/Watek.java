@@ -15,5 +15,6 @@ public class Watek extends Thread{
 
         }
 
+        return 0;
     }
 }
