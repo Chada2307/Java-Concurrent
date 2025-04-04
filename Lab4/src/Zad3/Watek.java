@@ -1,21 +1,21 @@
 package Zad3;
 
 public class Watek extends Thread{
-    private double[] tab;
+    private int[] tab;
     private int od;
     private int doo;
     public static int info;
-    public static double[] minimal = new double[1000];
-    public static double[] maksymal = new double[1000];
+    public static int[] minimal = new int[1000];
+    public static int[] maksymal = new int[1000];
 
 
-    public Watek(double[] tab, int od, int doo) {
+    public Watek(int[] tab, int od, int doo) {
         this.tab = tab;
         this.od= od;
         this.doo= doo;
     }
-    public double mini(double[] tab, int od, int doo) {
-        double minn = 0;
+    public int mini(int[] tab, int od, int doo) {
+        int minn = 0;
         for (int i = od; i < doo; i++) {
             if (tab[i] < minn) {
                 minn = tab[i];
@@ -25,8 +25,8 @@ public class Watek extends Thread{
         info++;
         return minn;
     }
-    public double maxi(double[] tab, int od, int doo) {
-        double maxx = 0;
+    public int maxi(int[] tab, int od, int doo) {
+        int maxx = 0;
         for (int i = od; i < doo; i++) {
             if (tab[i] > maxx) {
                 maxx = tab[i];
