@@ -6,7 +6,7 @@ public class Test {
 
     public static void main(String[] args) {
         
-        Semaphore s1 = new Semaphore(2);
+        Semaphore s1 = new Semaphore(0);
 
         Dane1 d1 = new Dane1(s1);
         Dane2 d2 = new Dane2(s1);
