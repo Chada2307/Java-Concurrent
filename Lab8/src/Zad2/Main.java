@@ -1,16 +1,21 @@
 package Zad2;
 
-import java.util.concurrent.CopyOnWriteArrayList;
-import java.util.concurrent.CyclicBarrier;
+import java.util.List;
+import java.util.concurrent.*;
 
 public class Main {
+    public static List<Integer> index_studencki = new CopyOnWriteArrayList<>();
+
     public static void main(String[] args) {
+        Srednia srednia = new Srednia(index_studencki);
         int liczba_prowadzacych = 3;
-        CyclicBarrier bariera = new CyclicBarrier(liczba_prowadzacych, () -> {
-            System.out.println("Wszyscy prowadzący wystawili oceny.");
-        });
-        CopyOnWriteArrayList <Integer> index_studencki = new CopyOnWriteArrayList<>();
+        CyclicBarrier bariera = new CyclicBarrier(liczba_prowadzacych,srednia);
+        ExecutorService executor = Executors.newFixedThreadPool(4);
 
+        executor.submit(new Prowadzacy_czarek(bariera, index_studencki));
+        executor.submit(new Prowadzacy_krzychu(bariera, index_studencki));
+        executor.submit(new Prowadzacy_maras(bariera, index_studencki));
 
+        executor.shutdown();
     }
 }

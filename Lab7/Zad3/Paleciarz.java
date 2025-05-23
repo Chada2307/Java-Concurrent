@@ -31,9 +31,9 @@ public class Paleciarz extends Thread{
             Thread.sleep(100);
             System.out.println("Ja: "+ name+ " Pakuje teraz cztery sreberka na jedna palete ");
             Thread.sleep(100);
-            long paletapart1 = Integer.valueOf(String.valueOf(sreberko1)+String.valueOf(sreberko2));
-            long paletapart2 = Integer.valueOf(String.valueOf(sreberko3)+String.valueOf(sreberko4));
-            long paleta = paletapart1+paletapart2;
+            String paletapart1 = (String.valueOf(sreberko1)+String.valueOf(sreberko2));
+            String paletapart2 = (String.valueOf(sreberko3)+String.valueOf(sreberko4));
+            String paleta = paletapart1+paletapart2;
 
             Thread.sleep(500);
             System.out.println("Ja: " + name + " Wyprodukowalem palete o ID: " + paleta);
