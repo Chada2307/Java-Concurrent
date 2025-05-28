@@ -1,0 +1,160 @@
+
+Rozmiar macierzy: 500x500
+Czas (1 watek): 523,68 s
+Czas (8 watkow): 237,65 s
+Przyspieszenie: 2,20x
+Suma kontrolna C1: 12771d4dec1de73f0d139e937dccfd84
+Suma kontrolna D1: 12771d4dec1de73f0d139e937dccfd84
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 1000x1000
+Czas (1 watek): 2162,31 s
+Czas (8 watkow): 813,68 s
+Przyspieszenie: 2,66x
+Suma kontrolna C2: 177c1647e02e667232f6b1f057f7a16d
+Suma kontrolna D2: 177c1647e02e667232f6b1f057f7a16d
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 1500x1500
+Czas (1 watek): 9831,36 s
+Czas (8 watkow): 3321,12 s
+Przyspieszenie: 2,96x
+Suma kontrolna C3: 33512aeebd114c60822d782c99f222e5
+Suma kontrolna D3: 33512aeebd114c60822d782c99f222e5
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 500x500
+Czas (1 watek): 663,12 s
+Czas (8 watkow): 228,48 s
+Przyspieszenie: 2,90x
+Suma kontrolna C1: 12771d4dec1de73f0d139e937dccfd84
+Suma kontrolna D1: 12771d4dec1de73f0d139e937dccfd84
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 1000x1000
+Czas (1 watek): 2325,93 s
+Czas (8 watkow): 812,72 s
+Przyspieszenie: 2,86x
+Suma kontrolna C2: 177c1647e02e667232f6b1f057f7a16d
+Suma kontrolna D2: 177c1647e02e667232f6b1f057f7a16d
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 1500x1500
+Czas (1 watek): 11600,02 s
+Czas (8 watkow): 3375,48 s
+Przyspieszenie: 3,44x
+Suma kontrolna C3: 33512aeebd114c60822d782c99f222e5
+Suma kontrolna D3: 33512aeebd114c60822d782c99f222e5
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 2000x2000
+Czas (1 watek): 36949,68 s
+Czas (8 watkow): 8965,43 s
+Przyspieszenie: 4,12x
+Suma kontrolna C4: 8cde1956c13347bacd55a7a10189a438
+Suma kontrolna D4: 8cde1956c13347bacd55a7a10189a438
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 500x500
+Czas (1 watek): 6,42 s
+Czas (8 watkow): 2,34 s
+Przyspieszenie: 2,75x
+Suma kontrolna C1: 12771d4dec1de73f0d139e937dccfd84
+Suma kontrolna D1: 12771d4dec1de73f0d139e937dccfd84
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 1000x1000
+Czas (1 watek): 21,22 s
+Czas (8 watkow): 7,39 s
+Przyspieszenie: 2,87x
+Suma kontrolna C2: 177c1647e02e667232f6b1f057f7a16d
+Suma kontrolna D2: 177c1647e02e667232f6b1f057f7a16d
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 1500x1500
+Czas (1 watek): 110,39 s
+Czas (8 watkow): 34,13 s
+Przyspieszenie: 3,23x
+Suma kontrolna C3: 33512aeebd114c60822d782c99f222e5
+Suma kontrolna D3: 33512aeebd114c60822d782c99f222e5
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 2000x2000
+Czas (1 watek): 368,83 s
+Czas (8 watkow): 98,19 s
+Przyspieszenie: 3,76x
+Suma kontrolna C4: 8cde1956c13347bacd55a7a10189a438
+Suma kontrolna D4: 8cde1956c13347bacd55a7a10189a438
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 500x500
+Czas (1 watek): 0,52 s
+Czas (8 watkow): 0,24 s
+Przyspieszenie: 2,13x
+Suma kontrolna C1: 12771d4dec1de73f0d139e937dccfd84
+Suma kontrolna D1: 12771d4dec1de73f0d139e937dccfd84
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 1000x1000
+Czas (1 watek): 2,22 s
+Czas (8 watkow): 0,75 s
+Przyspieszenie: 2,97x
+Suma kontrolna C2: 177c1647e02e667232f6b1f057f7a16d
+Suma kontrolna D2: 177c1647e02e667232f6b1f057f7a16d
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 1500x1500
+Czas (1 watek): 10,11 s
+Czas (8 watkow): 3,39 s
+Przyspieszenie: 2,98x
+Suma kontrolna C3: 33512aeebd114c60822d782c99f222e5
+Suma kontrolna D3: 33512aeebd114c60822d782c99f222e5
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 2000x2000
+Czas (1 watek): 39,07 s
+Czas (8 watkow): 9,74 s
+Przyspieszenie: 4,01x
+Suma kontrolna C4: 8cde1956c13347bacd55a7a10189a438
+Suma kontrolna D4: 8cde1956c13347bacd55a7a10189a438
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 500x500
+Czas (1 watek): 0,55 s
+Czas (8 watkow): 0,26 s
+Przyspieszenie: 2,14x
+Suma kontrolna C1: 12771d4dec1de73f0d139e937dccfd84
+Suma kontrolna D1: 12771d4dec1de73f0d139e937dccfd84
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 1000x1000
+Czas (1 watek): 2,18 s
+Czas (8 watkow): 0,75 s
+Przyspieszenie: 2,90x
+Suma kontrolna C2: 177c1647e02e667232f6b1f057f7a16d
+Suma kontrolna D2: 177c1647e02e667232f6b1f057f7a16d
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 1500x1500
+Czas (1 watek): 10,58 s
+Czas (8 watkow): 3,42 s
+Przyspieszenie: 3,10x
+Suma kontrolna C3: 33512aeebd114c60822d782c99f222e5
+Suma kontrolna D3: 33512aeebd114c60822d782c99f222e5
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 2000x2000
+Czas (1 watek): 36,26 s
+Czas (8 watkow): 9,20 s
+Przyspieszenie: 3,94x
+Suma kontrolna C4: 8cde1956c13347bacd55a7a10189a438
+Suma kontrolna D4: 8cde1956c13347bacd55a7a10189a438
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 3000x3000
+Czas (1 watek): 134,21 s
+Czas (8 watkow): 35,33 s
+Przyspieszenie: 3,80x
+Suma kontrolna C5: e562b5dae608275a6dedbfa8151b0492
+Suma kontrolna D5: e562b5dae608275a6dedbfa8151b0492
+Zgodnosc sum kontrolnych?: TAK
