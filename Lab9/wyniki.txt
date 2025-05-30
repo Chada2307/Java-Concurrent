@@ -158,3 +158,67 @@ Przyspieszenie: 3,80x
 Suma kontrolna C5: e562b5dae608275a6dedbfa8151b0492
 Suma kontrolna D5: e562b5dae608275a6dedbfa8151b0492
 Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 500x500
+Czas (1 watek): 0,65 s
+Czas (8 watkow): 0,23 s
+Przyspieszenie: 2,79x
+Suma kontrolna C1: 12771d4dec1de73f0d139e937dccfd84
+Suma kontrolna D1: 12771d4dec1de73f0d139e937dccfd84
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 1000x1000
+Czas (1 watek): 2,43 s
+Czas (8 watkow): 0,76 s
+Przyspieszenie: 3,21x
+Suma kontrolna C2: 177c1647e02e667232f6b1f057f7a16d
+Suma kontrolna D2: 177c1647e02e667232f6b1f057f7a16d
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 500x500
+Czas (1 watek): 0,52 s
+Czas (8 watkow): 0,19 s
+Przyspieszenie: 2,74x
+Suma kontrolna C1: 12771d4dec1de73f0d139e937dccfd84
+Suma kontrolna D1: 12771d4dec1de73f0d139e937dccfd84
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 1000x1000
+Czas (1 watek): 2,28 s
+Czas (8 watkow): 0,75 s
+Przyspieszenie: 3,05x
+Suma kontrolna C2: 177c1647e02e667232f6b1f057f7a16d
+Suma kontrolna D2: 177c1647e02e667232f6b1f057f7a16d
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 1500x1500
+Czas (1 watek): 11,30 s
+Czas (8 watkow): 3,33 s
+Przyspieszenie: 3,39x
+Suma kontrolna C3: 33512aeebd114c60822d782c99f222e5
+Suma kontrolna D3: 33512aeebd114c60822d782c99f222e5
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 500x500
+Czas (1 watek): 0,58 s
+Czas (8 watkow): 0,20 s
+Przyspieszenie: 2,89x
+Suma kontrolna C1: 12771d4dec1de73f0d139e937dccfd84
+Suma kontrolna D1: 12771d4dec1de73f0d139e937dccfd84
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 1000x1000
+Czas (1 watek): 2,26 s
+Czas (8 watkow): 0,78 s
+Przyspieszenie: 2,91x
+Suma kontrolna C2: 177c1647e02e667232f6b1f057f7a16d
+Suma kontrolna D2: 177c1647e02e667232f6b1f057f7a16d
+Zgodnosc sum kontrolnych?: TAK
+
+Rozmiar macierzy: 1500x1500
+Czas (1 watek): 11,45 s
+Czas (8 watkow): 3,94 s
+Przyspieszenie: 2,91x
+Suma kontrolna C3: 33512aeebd114c60822d782c99f222e5
+Suma kontrolna D3: 33512aeebd114c60822d782c99f222e5
+Zgodnosc sum kontrolnych?: TAK

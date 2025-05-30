@@ -15,7 +15,7 @@ public class Main {
     public static List<int[][]> listaD = new ArrayList<>();
 
     public static void main(String[] args) throws IOException, NoSuchAlgorithmException {
-        int[] rozmiary = {500, 1000, 1500,2000,3000};
+        int[] rozmiary = {500, 1000, 1500};
         int procesory = Runtime.getRuntime().availableProcessors();
         BufferedWriter zapis = new BufferedWriter(new FileWriter("wyniki.txt", true));
 
@@ -23,13 +23,12 @@ public class Main {
             int SIZE = rozmiary[indeks];
             int[][] A = new int[SIZE][SIZE];
             int[][] B = new int[SIZE][SIZE];
-            // Tworze tablice tymczasowe
+
             int[][] C = new int[SIZE][SIZE];
             int[][] D = new int[SIZE][SIZE];
 
             fill_matrix_A(A);
             fill_matrix_B(B);
-
 
             Mnozenie_jeden mnz = new Mnozenie_jeden(A, B, C, SIZE);
         //----------------------------------------------------------
@@ -82,10 +81,6 @@ public class Main {
             System.out.printf("Czas dla %d watkow: %.2f s%n", procesory, czas2);
             System.out.printf("Mnozenie %d-wątkowe było %.2f razy szybsze%n",procesory,roznica);
 
-
-
-
-
             String wynik = String.format(
                             "\nRozmiar macierzy: %dx%d\n" +
                             "Czas (1 watek): %.2f s\n" +
@@ -116,7 +111,6 @@ public class Main {
         }
     }
 /*-------------------------------------------------------------------------------------------------*/
-
     // Metoda do obliczania sumy kontrolnej
     //Tworzy obiekt klasy MessageDigest skonfigurowany do uzycia algorytmu MD5
     // w petli iterujemy po wierszach i elementach wierszy konwertujac inty na byte bo
