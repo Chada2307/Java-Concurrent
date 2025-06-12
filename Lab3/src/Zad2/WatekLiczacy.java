@@ -15,6 +15,6 @@ public class WatekLiczacy extends Thread{
       if (wynik != 0) break;
         }
         System.out.println(Thread.currentThread().getName()+ "konczy z wynikiem: "+ wynik);
-        return wynik;
+
     }
 }

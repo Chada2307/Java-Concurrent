@@ -12,7 +12,7 @@ public class Watek2 extends Thread {
             }
 
         }
-        return 0;
+
     }
 }
 

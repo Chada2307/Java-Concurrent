@@ -48,7 +48,7 @@ public class zad4 {
 
 
 
-    public static void metoda4() {
+    public static void main(String[] args) {
         int[] tablica = new int[10];
         int[] tablica2 = new int[10];
         int[] tablica3 = new int[10];

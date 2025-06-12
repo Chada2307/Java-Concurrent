@@ -9,7 +9,7 @@ public class Silnia {
 
      public void run(){
          System.out.println(Thread.currentThread().getName()+"["+liczba+"] ! = "+silnia.licz(liczba));
-         return 0;
+
      }
     }
     public synchronized int licz(int wartosc){

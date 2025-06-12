@@ -13,6 +13,6 @@ public class Watek1 extends Thread{
                 System.out.println("error");
             }
         }
-        return 0;
+
     }
 }

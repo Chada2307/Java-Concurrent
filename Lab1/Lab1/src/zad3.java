@@ -84,7 +84,7 @@ public class zad3 {
     }
 
 
-    public static void metoda3(){
+    public static void main(String [] args) {
         final int N = 10;
         int[] tablica = new int[N];
         tablica = zapelnij(tablica);

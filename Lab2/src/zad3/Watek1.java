@@ -13,6 +13,6 @@ public class Watek1 implements Runnable{
                 System.out.println("error");
             }
         }
-        return 0;
+
     }
 }

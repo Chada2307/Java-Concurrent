@@ -1,10 +1,7 @@
 import java.util.Random;
 
 public class zad5 {
-
-
-
-    public static void metoda5() {
+    public static void main(String[] args) {
 
         watekdo5 macierz1 = new watekdo5();
         watekdo5 macierz2 = new watekdo5();
@@ -26,8 +23,5 @@ try{
             }
 
         }
-
-
-
     }}
 

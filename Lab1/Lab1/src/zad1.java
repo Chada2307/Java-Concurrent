@@ -1,5 +1,5 @@
 public class zad1 {
-    public static void metoda(){
+    public static void main(String[] args) {
         int n = 1;
         int x = 5;
         for (int i = 0; i < 6 ; i++) {

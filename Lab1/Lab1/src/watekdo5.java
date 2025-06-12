@@ -48,9 +48,6 @@ public class watekdo5 extends Thread {
 
 
     public void run() {
-
         matrix = zapelnij(matrix);
-
-        return 0;
     }
 }
